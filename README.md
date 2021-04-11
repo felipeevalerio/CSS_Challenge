@@ -1,2 +1,2 @@
-# CSS_Challenge
-30 days of css
+# 30 Days of CSS_Challenge
+
